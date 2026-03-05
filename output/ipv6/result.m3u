@@ -2,22 +2,20 @@
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-2" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/CCTV-2.png" group-title="📺央视频道",CCTV-2
 http://pull-hls-f11.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773218365&major_anchor_level=common&sign=821612d0a7b01fb226f8f39d97d19fc2&t_id=037-20260304163924497A73460AD8D5D628AF-n87Lsu
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-13" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/CCTV-13.png" group-title="📺央视频道",CCTV-13
-http://pull-hls-f11.douyincdn.com/media/stream-695423553788969644.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773290237&major_anchor_level=common&sign=29a4e767241a91155bcab8d5f2ffd47d&t_id=037-20260305123716DB3DBEA67FE4E1126C8D-4g7vBj
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-13" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/CCTV-13.png" group-title="📺央视频道",CCTV-13
 http://pull-hls-f11.douyincdn.com/media/stream-695417071207187116.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773208553&major_anchor_level=common&sign=5e5791d5483cd383acea72b3a02bfd3c&t_id=037-202603041355521C4B9417BEA02331B2FB-H5hoZx
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-13" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/CCTV-13.png" group-title="📺央视频道",CCTV-13
+http://pull-hls-f11.douyincdn.com/media/stream-695423553788969644.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773290237&major_anchor_level=common&sign=29a4e767241a91155bcab8d5f2ffd47d&t_id=037-20260305123716DB3DBEA67FE4E1126C8D-4g7vBj
 #EXTINF:-1 tvg-id="3" tvg-name="重庆卫视" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/重庆卫视.png" group-title="📡卫视频道",重庆卫视
 https://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/01.m3u8?&HlsSubType=&encrypt=
 #EXTINF:-1 tvg-id="4" tvg-name="河北卫视" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/河北卫视.png" group-title="📡卫视频道",河北卫视
 http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="山东卫视" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/山东卫视.png" group-title="📡卫视频道",山东卫视
-https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="6" tvg-name="经典电影" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/经典电影.png" group-title="🎬电影频道",经典电影
-https://down-hls.qxiu.com/live/453135/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="笑傲江湖" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/笑傲江湖.png" group-title="🏛经典剧场",笑傲江湖
+#EXTINF:-1 tvg-id="5" tvg-name="江苏卫视" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/江苏卫视.png" group-title="📡卫视频道",江苏卫视
+https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="6" tvg-name="笑傲江湖" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/笑傲江湖.png" group-title="🏛经典剧场",笑傲江湖
 https://vd4.bdstatic.com/mda-ki3e6haxdv0x0tgr/v1-cae/mda-ki3e6haxdv0x0tgr.mp4?auth_key=1602763155-0-0-1dae92370a0b1d7d9dca0d3d9c748b00&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=8797_2&sle=1&sl=537&split=597343
-#EXTINF:-1 tvg-id="8" tvg-name="上海滩" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/上海滩.png" group-title="🏛经典剧场",上海滩
+#EXTINF:-1 tvg-id="7" tvg-name="上海滩" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/上海滩.png" group-title="🏛经典剧场",上海滩
 https://vd4.bdstatic.com/mda-keck5jhdaagebxkm/v1-cae/mda-keck5jhdaagebxkm.mp4?auth_key=1602762530-0-0-3e02c62e492e00c28c5557d41188d769&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=8797_2&sle=1&sl=288&split=391503
-#EXTINF:-1 tvg-id="8" tvg-name="上海滩" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/上海滩.png" group-title="🏛经典剧场",上海滩
+#EXTINF:-1 tvg-id="7" tvg-name="上海滩" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/上海滩.png" group-title="🏛经典剧场",上海滩
 http://vd4.bdstatic.com/mda-khhkahykt2mjfmq7/mda-khhkahykt2mjfmq7.mp4
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV-1" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/CCTV-1.png" group-title="🕘️更新时间",2026-03-06 00:08:03
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-1" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/CCTV-1.png" group-title="🕘️更新时间",2026-03-06 07:46:40
 http://pull-hls-f11.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773218365&major_anchor_level=common&sign=821612d0a7b01fb226f8f39d97d19fc2&t_id=037-20260304163924497A73460AD8D5D628AF-n87Lsu

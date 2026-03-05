@@ -1,7 +1,7 @@
 📺央视频道,#genre#
 CCTV-2,http://pull-hls-f11.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773218365&major_anchor_level=common&sign=821612d0a7b01fb226f8f39d97d19fc2&t_id=037-20260304163924497A73460AD8D5D628AF-n87Lsu
-CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695423553788969644.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773290237&major_anchor_level=common&sign=29a4e767241a91155bcab8d5f2ffd47d&t_id=037-20260305123716DB3DBEA67FE4E1126C8D-4g7vBj
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695417071207187116.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773208553&major_anchor_level=common&sign=5e5791d5483cd383acea72b3a02bfd3c&t_id=037-202603041355521C4B9417BEA02331B2FB-H5hoZx
+CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695423553788969644.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773290237&major_anchor_level=common&sign=29a4e767241a91155bcab8d5f2ffd47d&t_id=037-20260305123716DB3DBEA67FE4E1126C8D-4g7vBj
 
 💰央视付费频道,#genre#
 
@@ -12,12 +12,11 @@ CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695417071207187116.m3u8?a
 📡卫视频道,#genre#
 重庆卫视,https://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/01.m3u8?&HlsSubType=&encrypt=
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
-山东卫视,https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
+江苏卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
 
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
-经典电影,https://down-hls.qxiu.com/live/453135/index.m3u8
 
 🏍咪咕体育,#genre#
 
@@ -31,4 +30,4 @@ CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695417071207187116.m3u8?a
 上海滩,http://vd4.bdstatic.com/mda-khhkahykt2mjfmq7/mda-khhkahykt2mjfmq7.mp4
 
 🕘️更新时间,#genre#
-2026-03-06 00:08:03,http://pull-hls-f11.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773218365&major_anchor_level=common&sign=821612d0a7b01fb226f8f39d97d19fc2&t_id=037-20260304163924497A73460AD8D5D628AF-n87Lsu
+2026-03-06 07:46:40,http://pull-hls-f11.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773218365&major_anchor_level=common&sign=821612d0a7b01fb226f8f39d97d19fc2&t_id=037-20260304163924497A73460AD8D5D628AF-n87Lsu
